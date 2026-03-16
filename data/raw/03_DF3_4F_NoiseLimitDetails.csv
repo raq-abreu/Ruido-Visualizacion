@@ -1,0 +1,73 @@
+﻿noiseLimitReportId_identifier ;noiseSource;limitValueDefined;status;areaType;noiseLevelIndicator;limitValue;explanation
+LR_ES_00_01;allSources;Yes;inForce;hospital;Lday;60;This is not a limit value but rather an Acoustic Quality Objective for existing urbanized areas
+LR_ES_00_01;allSources;Yes;inForce;hospital;Levening;60;This is not a limit value but rather an Acoustic Quality Objective for existing urbanized areas
+LR_ES_00_01;allSources;Yes;inForce;hospital;Lnight;50;This is not a limit value but rather an Acoustic Quality Objective for existing urbanized areas
+LR_ES_00_01;allSources;Yes;inForce;school;Lday;60;This is not a limit value but rather an Acoustic Quality Objective for existing urbanized areas
+LR_ES_00_01;allSources;Yes;inForce;school;Levening;60;This is not a limit value but rather an Acoustic Quality Objective for existing urbanized areas
+LR_ES_00_01;allSources;Yes;inForce;school;Lnight;50;This is not a limit value but rather an Acoustic Quality Objective for existing urbanized areas
+LR_ES_00_01;allSources;Yes;inForce;residentialExistingInfrastructure;Lday;65;This is not a limit value but rather an Acoustic Quality Objective for existing urbanized areas
+LR_ES_00_01;allSources;Yes;inForce;residentialExistingInfrastructure;Levening;65;This is not a limit value but rather an Acoustic Quality Objective for existing urbanized areas
+LR_ES_00_01;allSources;Yes;inForce;residentialExistingInfrastructure;Lnight;55;This is not a limit value but rather an Acoustic Quality Objective for existing urbanized areas
+LR_ES_00_02;allSources;Yes;inForce;hospital;Lday;55;This is not a limit value but rather an Acoustic Quality Objective for new urbanized areas. 
+LR_ES_00_02;allSources;Yes;inForce;hospital;Levening;55;This is not a limit value but rather an Acoustic Quality Objective for new urbanized areas. 
+LR_ES_00_02;allSources;Yes;inForce;hospital;Lnight;45;This is not a limit value but rather an Acoustic Quality Objective for new urbanized areas. 
+LR_ES_00_02;allSources;Yes;inForce;school;Lday;55;This is not a limit value but rather an Acoustic Quality Objective for new urbanized areas. 
+LR_ES_00_02;allSources;Yes;inForce;school;Levening;55;This is not a limit value but rather an Acoustic Quality Objective for new urbanized areas. 
+LR_ES_00_02;allSources;Yes;inForce;school;Lnight;45;This is not a limit value but rather an Acoustic Quality Objective for new urbanized areas. 
+LR_ES_00_02;allSources;Yes;inForce;residentialNewInfrastructure;Lday;60;This is not a limit value but rather an Acoustic Quality Objective for new urbanized areas. 
+LR_ES_00_02;allSources;Yes;inForce;residentialNewInfrastructure;Levening;60;This is not a limit value but rather an Acoustic Quality Objective for new urbanized areas. 
+LR_ES_00_02;allSources;Yes;inForce;residentialNewInfrastructure;Lnight;50;This is not a limit value but rather an Acoustic Quality Objective for new urbanized areas. 
+LR_ES_00_03;majorAllSources;Yes;inForce;hospital;Lday;55;This noise limit value applies to all new infrastructure, not only to majors.
+LR_ES_00_03;majorAllSources;Yes;inForce;hospital;Levening;55;This noise limit value applies to all new infrastructure, not only to majors.
+LR_ES_00_03;majorAllSources;Yes;inForce;hospital;Lnight;45;This noise limit value applies to all new infrastructure, not only to majors.
+LR_ES_00_03;majorAllSources;Yes;inForce;school;Lday;55;This noise limit value applies to all new infrastructure, not only to majors.
+LR_ES_00_03;majorAllSources;Yes;inForce;school;Levening;55;This noise limit value applies to all new infrastructure, not only to majors.
+LR_ES_00_03;majorAllSources;Yes;inForce;school;Lnight;45;This noise limit value applies to all new infrastructure, not only to majors.
+LR_ES_00_03;majorAllSources;Yes;inForce;residentialExistingInfrastructure;Lday;60;This noise limit value applies to all new infrastructure, not only to majors.
+LR_ES_00_03;majorAllSources;Yes;inForce;residentialExistingInfrastructure;Levening;60;This noise limit value applies to all new infrastructure, not only to majors.
+LR_ES_00_03;majorAllSources;Yes;inForce;residentialExistingInfrastructure;Lnight;50;This noise limit value applies to all new infrastructure, not only to majors.
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
