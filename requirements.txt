@@ -1,1 +1,9 @@
 #Librerías necesarias
+
+altair>=5.0.0
+pandas>=2.0.0
+numpy>=1.25.0
+jupyterlab>=4.0.0
+vega-datasets>=0.9.0
+
+
