@@ -53,7 +53,7 @@ Los datos originales se alojan en Kaggle:
 
 
 🔗 Acceso Kaggle (privado para el equipo docente):  
-**URL:** [[https://www.kaggle.com/datasets/raquelahdo/ruido-datasets]][(https://www.kaggle.com/datasets/raquelahdo/ruido-datasets))
+**URL:** [[https://www.kaggle.com/datasets/raquelahdo/ruido-datasets]]
 
 > Si necesita acceso, por favor indique su usuario de Kaggle para añadirle como “Collaborator”.
 
