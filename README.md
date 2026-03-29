@@ -44,7 +44,7 @@ Los datos originales se alojan en Kaggle:
 - **Dataset 2 (200MB):** `data02_raw.csv`
 
 🔗 Acceso Kaggle (privado para el equipo docente):  
-**URL:** https://www.kaggle.com/datasets/USUARIO/NOMBRE-DEL-DATASET
+**URL:** [https://www.kaggle.com/datasets/USUARIO/NOMBRE-DEL-DATASET](https://www.kaggle.com/datasets/raquelahdo/ruido-dat)
 
 > Si necesita acceso, por favor indique su usuario de Kaggle para añadirle como “Collaborator”.
 
