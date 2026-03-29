@@ -14,8 +14,7 @@ Debido al tamaño de los datos de origen, los **datasets grandes** se alojan en 
 Descripción del objetivo global y los secundarios.
 
 ## Estructura del repositorio
-Breve explicación de las carpetas.
-proyecto-visualizacion/
+Ruido-Visualizacion/
 ├─ data/
 │  ├─ raw/          # (vacío en GitHub) Datos originales alojados en Kaggle
 │  ├─ interim/      # Transformaciones intermedias (si <50MB)
