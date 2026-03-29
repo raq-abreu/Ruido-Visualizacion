@@ -40,8 +40,17 @@ proyecto-visualizacion/
 Origen de cada dataset, links y tamaño.
 Los datos originales se alojan en Kaggle:
 
-- **Dataset 1 (200MB):** `data01_raw.csv`  
-- **Dataset 2 (200MB):** `data02_raw.csv`
+- **Dataset 1 (23.18MB):** `01_Ruido diario_acumulado.csv` - 11 columnas
+- **Dataset 2 (694.39kB):** `02_contaminacion-acustica.csv` - 13 columnas
+- **Dataset 3 (4.65kB):** `03_DF3_4F_NoiseLimitdetails.csv` - 8 columnas
+- **Dataset 4 (1.23MB):** `04-Metadata_Indicator_API_ESP_DS2_en_v2_17575.csv` - 4 columnas
+- **Dataset 5 (4.66kB):** `05-estaciones-acusticas.csv` - 8 columnas
+- **Dataset 6 (92.55MB):** `06-200085-1-censo-locales.csv` - 46 columnas
+- **Dataset 6 (5.38MB):** `06-200085-6-censo-locales.csv` - 117 columnas
+- **Dataset 7 (97.56kB):** `07-datos_calidad_vida_multi.csv` - 12 Dimensiones, 20 columnas cada una
+- **Dataset 8 (50.83kB):** `08-48130_salud_mental.csv` - 6 columnas
+- **Dataset 9 (451.29MB):** `09-31103_ADRH_distribucion_renta_hogares.csv` - 8 columnas
+
 
 🔗 Acceso Kaggle (privado para el equipo docente):  
 **URL:** [[https://www.kaggle.com/datasets/raquelahdo/ruido-dat]](https://www.kaggle.com/datasets/raquelahdo/ruido-dat)
