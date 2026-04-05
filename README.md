@@ -32,7 +32,7 @@ Ruido-Visualizacion/
 ## Datos Originales
 Origen de cada dataset, links y tamaño.
 Los datos originales se alojan en Kaggle:
-🔗 Acceso Kaggle (privado para el equipo docente):  
+🔗 Acceso Kaggle (público):  
 **URL:** [[https://www.kaggle.com/datasets/raquelahdo/ruido-datasets]]
 
 - **Dataset 1 (23.18MB):** `01_Ruido diario_acumulado.csv` - 11 columnas
@@ -53,7 +53,7 @@ Los datos originales se alojan en Kaggle:
 ## Datos Procesados
 Origen de cada dataset procesado, link y tamaño
 Los datos procesados se alojan en Kaggle:
-🔗 Acceso Kaggle (privado para el equipo docente):  
+🔗 Acceso Kaggle (público):  
 **URL:** [[https://www.kaggle.com/datasets/raquelahdo/ruido-datasets-procesados]]
 
 - df_01_Ruido_diario_acumulado_processed.csv (47.2 MB) - 17 columnas
@@ -83,11 +83,10 @@ Los datos procesados se alojan en Kaggle:
 
   
 ## Instrucciones para ejecutar
-1. Crear entorno
-2. Instalar requirements.txt
-3. Ejecutar notebook
+1. Crear entorno instalando Anaconda
+3. Ejecutar notebooks
 
-## Visualización
+## Preparación de datos
 Abra y ejecute notebooks/
 - Limpieza 01_Ruido_diario_acumulado.ipynb
 - Limpieza 02_Contaminacion_acustica.ipynb
@@ -97,6 +96,9 @@ Abra y ejecute notebooks/
 - Limpieza 07-calidad-vida.ipynb
 - Limpieza 08-salud-mental.ipynb
 - Limpieza 09-ADRH-distribucion renta.ipynb
+
+## Visualización
+Fase de entrega final del proyecto
 
 ## Autoría
 Alumno: Raquel Abreu
