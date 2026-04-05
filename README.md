@@ -17,27 +17,23 @@ Descripción del objetivo global y los secundarios.
 Ruido-Visualizacion/
 ├─ data/
 │  ├─ raw/          # (vacío en GitHub) Datos originales alojados en Kaggle
-│  ├─ interim/      # Transformaciones intermedias (si <50MB)
-│  └─ processed/    # Datos finales listos para la visualización (si <50MB)
-├─ notebooks/
-│  ├─ 01_exploracion.ipynb
-│  └─ 02_visualizacion_altair.ipynb
-├─ src/
-│  ├─ cleaning.py
-│  ├─ load_data.py
-│  └─ utils.py
+│  └─ processed/    # (vacío en GitHub) Datos procesados alojados en Kaggle
+├─ notebooks/        # Jupyter notebooks - para limpieza y procesdado de datos
+├─ src/              # Ubicación de scripts (vacío)
 ├─ visualizations/
-│  └─ resultado.html           # Export opcional para revisión rápida
+│  └─ resultado.html           # (Vacío) Export opcional para revisión rápida - Fase final del trabajo
 ├─ docs/
-│  └─ memoria.pdf              # Entrega final (cuando aplique)
+│  └─ memoria.pdf              # (Vacío) Entrega final (cuando aplique)
 ├─ requirements.txt
 ├─ README.md
-└─ .gitignore
+└─ .gitignore          # (Vacío) Se incluirá cuando aplique
 
 
-## Datos
+## Datos Originales
 Origen de cada dataset, links y tamaño.
 Los datos originales se alojan en Kaggle:
+🔗 Acceso Kaggle (privado para el equipo docente):  
+**URL:** [[https://www.kaggle.com/datasets/raquelahdo/ruido-datasets]]
 
 - **Dataset 1 (23.18MB):** `01_Ruido diario_acumulado.csv` - 11 columnas
 - **Dataset 2 (694.39kB):** `02_contaminacion-acustica.csv` - 13 columnas
@@ -51,10 +47,33 @@ Los datos originales se alojan en Kaggle:
 - **Dataset 9 (451.29MB):** `09-31103_ADRH_distribucion_renta_hogares.csv` - 8 columnas
 
 
-🔗 Acceso Kaggle (privado para el equipo docente):  
-**URL:** [[https://www.kaggle.com/datasets/raquelahdo/ruido-datasets]]
 
 > Si necesita acceso, por favor indique su usuario de Kaggle para añadirle como “Collaborator”.
+
+## Datos Procesados
+Origen de cada dataset procesado, link y tamaño
+Los datos procesados se alojan en Kaggle:
+🔗 Acceso Kaggle (privado para el equipo docente):  
+**URL:** [[https://www.kaggle.com/datasets/raquelahdo/ruido-datasets-procesados]]
+
+- df_01_Ruido_diario_acumulado_processed.csv (47.2 MB) - 17 columnas
+- df_01_daily_plot.csv (2.87 MB) - 3 columnas
+- df_01_daily_processed.csv (548.02 kB) - 3 columnas
+- df_02_contaminacion_acustica_processed.csv (964.29 kB) - 17 columnas
+- df_02_estacion_processed.csv (936 B) - 2 columnas
+- df_03_noise_limit_processed.csv (6.08 kB) - 10 columnas
+- df_05_estaciones-acusticas_processed.csv (4.64 kB) - 11 columnas
+- df_06_locales_terrazas_processed.csv (33.54 MB) - 27 columnas
+- df_07_Madrid-calidad-vida_processed.csv (3.33 kB) - 19 columnas
+- df_07_calidad-vida_processed.csv (6.13 kB) - 18 columnas
+- df_07_evolucion-calidad-vida_processed.csv (2.77 kB) - 18 columnas
+- df_07_evolucion-long-calidad-vida_processed.csv (8.09 kB) - 4 columnas
+- df_07_final-calidad-vida_processed.csv (17.08 kB) - 7 columnas
+- df_09_distribucion-renta_processed.csv (488.52 MB) - 10 columnas
+- df_09_reduced_distribucion-renta_processed.csv (186.82 kB) - 5 columnas
+
+
+
 
 ### Descarga local (opciones)
 - **Manual:** Descargar desde la URL de Kaggle y colocar los archivos en `data/raw/`.
@@ -69,9 +88,15 @@ Los datos originales se alojan en Kaggle:
 3. Ejecutar notebook
 
 ## Visualización
-Abra y ejecute notebooks/02_visualizacion_altair.ipynb
-Enlace a la versión HTML visualizations/resultado.html
-
+Abra y ejecute notebooks/
+- Limpieza 01_Ruido_diario_acumulado.ipynb
+- Limpieza 02_Contaminacion_acustica.ipynb
+- Limpieza 03-Noise-limit.ipynb
+- Limpieza 05-estaciones-acusticas.ipynb
+- Limpieza 06-censo-locales.ipynb
+- Limpieza 07-calidad-vida.ipynb
+- Limpieza 08-salud-mental.ipynb
+- Limpieza 09-ADRH-distribucion renta.ipynb
 
 ## Autoría
 Alumno: Raquel Abreu
