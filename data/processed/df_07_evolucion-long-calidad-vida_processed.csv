@@ -1,0 +1,171 @@
+dim,año,valor_evolucion,dim_num
+Global,2008,100.0,
+1. Condiciones materiales de vida,2008,100.0,1.0
+2. Trabajo,2008,100.0,2.0
+3. Salud,2008,100.0,3.0
+4. Educación,2008,100.0,4.0
+5. Ocio y relaciones sociales,2008,100.0,5.0
+6. Seguridad física y personal,2008,100.0,6.0
+7. Gobernanza y derechos básicos,2008,100.0,7.0
+8. Entorno y medioambiente,2008,100.0,8.0
+9. Experiencia general de la vida,2008,100.0,9.0
+Global,2009,99.6345693642588,
+1. Condiciones materiales de vida,2009,99.1711344180821,1.0
+2. Trabajo,2009,98.3458792335089,2.0
+3. Salud,2009,99.225386972885,3.0
+4. Educación,2009,100.110585051467,4.0
+5. Ocio y relaciones sociales,2009,100.0,5.0
+6. Seguridad física y personal,2009,99.6327792349672,6.0
+7. Gobernanza y derechos básicos,2009,100.0,7.0
+8. Entorno y medioambiente,2009,100.225359367418,8.0
+9. Experiencia general de la vida,2009,100.0,9.0
+Global,2010,99.9651315251688,
+1. Condiciones materiales de vida,2010,98.761457212102,1.0
+2. Trabajo,2010,97.2994417547907,2.0
+3. Salud,2010,100.231552687167,3.0
+4. Educación,2010,101.174039050977,4.0
+5. Ocio y relaciones sociales,2010,100.0,5.0
+6. Seguridad física y personal,2010,100.338385823906,6.0
+7. Gobernanza y derechos básicos,2010,100.0,7.0
+8. Entorno y medioambiente,2010,101.881307197575,8.0
+9. Experiencia general de la vida,2010,100.0,9.0
+Global,2011,100.259843265218,
+1. Condiciones materiales de vida,2011,99.304087558524,1.0
+2. Trabajo,2011,95.9902927161478,2.0
+3. Salud,2011,101.656363594871,3.0
+4. Educación,2011,101.844574681109,4.0
+5. Ocio y relaciones sociales,2011,100.0,5.0
+6. Seguridad física y personal,2011,100.908946574942,6.0
+7. Gobernanza y derechos básicos,2011,100.0,7.0
+8. Entorno y medioambiente,2011,102.634324261369,8.0
+9. Experiencia general de la vida,2011,100.0,9.0
+Global,2012,100.16256254446,
+1. Condiciones materiales de vida,2012,98.663407814947,1.0
+2. Trabajo,2012,95.0266753146034,2.0
+3. Salud,2012,101.568570270406,3.0
+4. Educación,2012,102.2764873601,4.0
+5. Ocio y relaciones sociales,2012,100.0,5.0
+6. Seguridad física y personal,2012,101.126533947608,6.0
+7. Gobernanza y derechos básicos,2012,100.0,7.0
+8. Entorno y medioambiente,2012,102.801388192476,8.0
+9. Experiencia general de la vida,2012,100.0,9.0
+Global,2013,99.9108305824532,
+1. Condiciones materiales de vida,2013,98.2259472926444,1.0
+2. Trabajo,2013,94.0769894041933,2.0
+3. Salud,2013,100.552128428727,3.0
+4. Educación,2013,102.844659139595,4.0
+5. Ocio y relaciones sociales,2013,100.0,5.0
+6. Seguridad física y personal,2013,100.669721442986,6.0
+7. Gobernanza y derechos básicos,2013,100.0,7.0
+8. Entorno y medioambiente,2013,102.828029533933,8.0
+9. Experiencia general de la vida,2013,100.0,9.0
+Global,2014,100.089988711422,
+1. Condiciones materiales de vida,2014,97.6665768067639,1.0
+2. Trabajo,2014,94.485209372137,2.0
+3. Salud,2014,101.827690304534,3.0
+4. Educación,2014,102.597361193774,4.0
+5. Ocio y relaciones sociales,2014,100.0,5.0
+6. Seguridad física y personal,2014,101.299776850755,6.0
+7. Gobernanza y derechos básicos,2014,100.0,7.0
+8. Entorno y medioambiente,2014,102.93328387483,8.0
+9. Experiencia general de la vida,2014,100.0,9.0
+Global,2015,100.366084518228,
+1. Condiciones materiales de vida,2015,98.2614756922508,1.0
+2. Trabajo,2015,95.2737819047193,2.0
+3. Salud,2015,101.969651806272,3.0
+4. Educación,2015,103.020489898978,4.0
+5. Ocio y relaciones sociales,2015,100.327446498006,5.0
+6. Seguridad física y personal,2015,101.881647245457,6.0
+7. Gobernanza y derechos básicos,2015,100.0,7.0
+8. Entorno y medioambiente,2015,102.560267618365,8.0
+9. Experiencia general de la vida,2015,100.0,9.0
+Global,2016,100.650384173738,
+1. Condiciones materiales de vida,2016,98.5522387855888,1.0
+2. Trabajo,2016,96.1112716819917,2.0
+3. Salud,2016,102.607826536499,3.0
+4. Educación,2016,103.350112837397,4.0
+5. Ocio y relaciones sociales,2016,100.327446498006,5.0
+6. Seguridad física y personal,2016,101.915851439392,6.0
+7. Gobernanza y derechos básicos,2016,100.0,7.0
+8. Entorno y medioambiente,2016,102.988709784767,8.0
+9. Experiencia general de la vida,2016,100.0,9.0
+Global,2017,101.096815526631,
+1. Condiciones materiales de vida,2017,99.6663861946914,1.0
+2. Trabajo,2017,97.2315443225861,2.0
+3. Salud,2017,103.568939139066,3.0
+4. Educación,2017,103.840667395991,4.0
+5. Ocio y relaciones sociales,2017,100.327446498006,5.0
+6. Seguridad física y personal,2017,102.126779721743,6.0
+7. Gobernanza y derechos básicos,2017,100.0,7.0
+8. Entorno y medioambiente,2017,103.109576467592,8.0
+9. Experiencia general de la vida,2017,100.0,9.0
+Global,2018,101.584055422948,
+1. Condiciones materiales de vida,2018,100.448143858524,1.0
+2. Trabajo,2018,98.9582353034592,2.0
+3. Salud,2018,102.881002992346,3.0
+4. Educación,2018,104.54700237752,4.0
+5. Ocio y relaciones sociales,2018,98.5401074878562,5.0
+6. Seguridad física y personal,2018,101.521352696219,6.0
+7. Gobernanza y derechos básicos,2018,100.0,7.0
+8. Entorno y medioambiente,2018,102.956436123702,8.0
+9. Experiencia general de la vida,2018,104.404217966906,9.0
+Global,2019,101.906591734275,
+1. Condiciones materiales de vida,2019,101.04875810641,1.0
+2. Trabajo,2019,99.7471885028981,2.0
+3. Salud,2019,103.869402475185,3.0
+4. Educación,2019,105.032832991711,4.0
+5. Ocio y relaciones sociales,2019,98.5401074878562,5.0
+6. Seguridad física y personal,2019,101.150133081683,6.0
+7. Gobernanza y derechos básicos,2019,100.0,7.0
+8. Entorno y medioambiente,2019,103.366684995824,8.0
+9. Experiencia general de la vida,2019,104.404217966906,9.0
+Global,2020,101.633697084907,
+1. Condiciones materiales de vida,2020,100.067924913826,1.0
+2. Trabajo,2020,99.9237606511701,2.0
+3. Salud,2020,102.048269003386,3.0
+4. Educación,2020,105.865869933722,4.0
+5. Ocio y relaciones sociales,2020,98.5401074878562,5.0
+6. Seguridad física y personal,2020,101.817448738862,6.0
+7. Gobernanza y derechos básicos,2020,100.0,7.0
+8. Entorno y medioambiente,2020,102.035675068434,8.0
+9. Experiencia general de la vida,2020,104.404217966906,9.0
+Global,2021,101.559292784177,
+1. Condiciones materiales de vida,2021,99.8221443292548,1.0
+2. Trabajo,2021,99.6276985849932,2.0
+3. Salud,2021,101.298106200796,3.0
+4. Educación,2021,108.420165002421,4.0
+5. Ocio y relaciones sociales,2021,97.7924986598586,5.0
+6. Seguridad física y personal,2021,101.359731669014,6.0
+7. Gobernanza y derechos básicos,2021,100.0,7.0
+8. Entorno y medioambiente,2021,102.020775531424,8.0
+9. Experiencia general de la vida,2021,103.692515079833,9.0
+Global,2022,101.138772195429,
+1. Condiciones materiales de vida,2022,100.187631468766,1.0
+2. Trabajo,2022,100.830857368917,2.0
+3. Salud,2022,103.069806201933,3.0
+4. Educación,2022,108.99867333493,4.0
+5. Ocio y relaciones sociales,2022,94.1531287025554,5.0
+6. Seguridad física y personal,2022,100.417957131694,6.0
+7. Gobernanza y derechos básicos,2022,98.5620685459341,7.0
+8. Entorno y medioambiente,2022,101.542259520291,8.0
+9. Experiencia general de la vida,2022,102.486567483843,9.0
+Global,2023,101.202614134272,
+1. Condiciones materiales de vida,2023,99.7633779298487,1.0
+2. Trabajo,2023,101.756664188453,2.0
+3. Salud,2023,101.855348431985,3.0
+4. Educación,2023,109.567865588266,4.0
+5. Ocio y relaciones sociales,2023,94.1341094830543,5.0
+6. Seguridad física y personal,2023,100.227728855035,6.0
+7. Gobernanza y derechos básicos,2023,98.5620685459341,7.0
+8. Entorno y medioambiente,2023,101.998836790235,8.0
+9. Experiencia general de la vida,2023,102.957527395635,9.0
+Global,2024,101.467222585803,
+1. Condiciones materiales de vida,2024,99.9836882186837,1.0
+2. Trabajo,2024,102.335091501436,2.0
+3. Salud,2024,103.285735708769,3.0
+4. Educación,2024,110.112882409822,4.0
+5. Ocio y relaciones sociales,2024,93.9012532467569,5.0
+6. Seguridad física y personal,2024,100.292223505576,6.0
+7. Gobernanza y derechos básicos,2024,98.5620685459341,7.0
+8. Entorno y medioambiente,2024,102.030264416561,8.0
+9. Experiencia general de la vida,2024,102.701795718685,9.0

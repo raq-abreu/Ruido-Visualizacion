@@ -1,0 +1,73 @@
+noiselimitreportid_identifier,noisesource,limitvaluedefined,status,areatype,noiselevelindicator,limitvalue,explanation,limitvaluedefined_bool,noiselevel
+LR_ES_00_01,allsources,yes,inforce,hospital,lday,60.0,This is not a limit value but rather an Acoustic Quality Objective for existing urbanized areas,True,day
+LR_ES_00_01,allsources,yes,inforce,hospital,levening,60.0,This is not a limit value but rather an Acoustic Quality Objective for existing urbanized areas,True,evening
+LR_ES_00_01,allsources,yes,inforce,hospital,lnight,50.0,This is not a limit value but rather an Acoustic Quality Objective for existing urbanized areas,True,night
+LR_ES_00_01,allsources,yes,inforce,school,lday,60.0,This is not a limit value but rather an Acoustic Quality Objective for existing urbanized areas,True,day
+LR_ES_00_01,allsources,yes,inforce,school,levening,60.0,This is not a limit value but rather an Acoustic Quality Objective for existing urbanized areas,True,evening
+LR_ES_00_01,allsources,yes,inforce,school,lnight,50.0,This is not a limit value but rather an Acoustic Quality Objective for existing urbanized areas,True,night
+LR_ES_00_01,allsources,yes,inforce,residentialexistinginfrastructure,lday,65.0,This is not a limit value but rather an Acoustic Quality Objective for existing urbanized areas,True,day
+LR_ES_00_01,allsources,yes,inforce,residentialexistinginfrastructure,levening,65.0,This is not a limit value but rather an Acoustic Quality Objective for existing urbanized areas,True,evening
+LR_ES_00_01,allsources,yes,inforce,residentialexistinginfrastructure,lnight,55.0,This is not a limit value but rather an Acoustic Quality Objective for existing urbanized areas,True,night
+LR_ES_00_02,allsources,yes,inforce,hospital,lday,55.0,This is not a limit value but rather an Acoustic Quality Objective for new urbanized areas.,True,day
+LR_ES_00_02,allsources,yes,inforce,hospital,levening,55.0,This is not a limit value but rather an Acoustic Quality Objective for new urbanized areas.,True,evening
+LR_ES_00_02,allsources,yes,inforce,hospital,lnight,45.0,This is not a limit value but rather an Acoustic Quality Objective for new urbanized areas.,True,night
+LR_ES_00_02,allsources,yes,inforce,school,lday,55.0,This is not a limit value but rather an Acoustic Quality Objective for new urbanized areas.,True,day
+LR_ES_00_02,allsources,yes,inforce,school,levening,55.0,This is not a limit value but rather an Acoustic Quality Objective for new urbanized areas.,True,evening
+LR_ES_00_02,allsources,yes,inforce,school,lnight,45.0,This is not a limit value but rather an Acoustic Quality Objective for new urbanized areas.,True,night
+LR_ES_00_02,allsources,yes,inforce,residentialnewinfrastructure,lday,60.0,This is not a limit value but rather an Acoustic Quality Objective for new urbanized areas.,True,day
+LR_ES_00_02,allsources,yes,inforce,residentialnewinfrastructure,levening,60.0,This is not a limit value but rather an Acoustic Quality Objective for new urbanized areas.,True,evening
+LR_ES_00_02,allsources,yes,inforce,residentialnewinfrastructure,lnight,50.0,This is not a limit value but rather an Acoustic Quality Objective for new urbanized areas.,True,night
+LR_ES_00_03,majorallsources,yes,inforce,hospital,lday,55.0,"This noise limit value applies to all new infrastructure, not only to majors.",True,day
+LR_ES_00_03,majorallsources,yes,inforce,hospital,levening,55.0,"This noise limit value applies to all new infrastructure, not only to majors.",True,evening
+LR_ES_00_03,majorallsources,yes,inforce,hospital,lnight,45.0,"This noise limit value applies to all new infrastructure, not only to majors.",True,night
+LR_ES_00_03,majorallsources,yes,inforce,school,lday,55.0,"This noise limit value applies to all new infrastructure, not only to majors.",True,day
+LR_ES_00_03,majorallsources,yes,inforce,school,levening,55.0,"This noise limit value applies to all new infrastructure, not only to majors.",True,evening
+LR_ES_00_03,majorallsources,yes,inforce,school,lnight,45.0,"This noise limit value applies to all new infrastructure, not only to majors.",True,night
+LR_ES_00_03,majorallsources,yes,inforce,residentialexistinginfrastructure,lday,60.0,"This noise limit value applies to all new infrastructure, not only to majors.",True,day
+LR_ES_00_03,majorallsources,yes,inforce,residentialexistinginfrastructure,levening,60.0,"This noise limit value applies to all new infrastructure, not only to majors.",True,evening
+LR_ES_00_03,majorallsources,yes,inforce,residentialexistinginfrastructure,lnight,50.0,"This noise limit value applies to all new infrastructure, not only to majors.",True,night
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
+,nan,nan,nan,nan,nan,,nan,,nan
