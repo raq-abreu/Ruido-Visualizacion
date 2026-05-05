@@ -5,7 +5,7 @@ Los datos procesados de se encuentran disponibles en 3 ubicaciones:
 (1) Ubicación de los datos 1: Los datos de la entrega intermedia están ubicados en el repositorio Kaggle.
 Ubicación de los datos procesados: https://www.kaggle.com/datasets/raquelahdo/ruido-datasets-procesados
 
-(2) Ubicación de los datos 2: Adicionalmente se encuentran disponibles en GitHub en /Ruido-Visualizacion/data/
+(2) Ubicación de los datos 2: Adicionalmente se encuentran disponibles en GitHub en /Ruido-Visualizacion/data/Processed/
 
 (3) Ubicación de los datos 3: One Drive de cuenta de alumno UNED: df_datos-procesados.zip
 https://unedo365-my.sharepoint.com/:u:/g/personal/rabreu1_alumno_uned_es/IQBybNEN2uM1QIWlrPuXNPhUAQOoS8wkuDpihA90bD2FyUE?e=juylve
