@@ -1,0 +1,7 @@
+DATOS DE LA ENTREGA INICIAL
+
+  Los datos de la entrega inicial están ubicados en el repositorio Kaggle.
+
+Ubicación de los datos originales: https://www.kaggle.com/datasets/raquelahdo/ruido-datasets
+
+
