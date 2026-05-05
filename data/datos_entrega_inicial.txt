@@ -1,7 +1,12 @@
 DATOS DE LA ENTREGA INICIAL
 
-  Los datos de la entrega inicial están ubicados en el repositorio Kaggle.
+Los datos iniciales de se encuentran disponibles en 3 ubicaciones:
 
+(1) Ubicación de los datos 1: Los datos de la entrega inicial están ubicados en el repositorio Kaggle.
 Ubicación de los datos originales: https://www.kaggle.com/datasets/raquelahdo/ruido-datasets
 
+(2) Ubicación de los datos 2: Adicionalmente se encuentran disponibles en GitHub en /Ruido-Visualizacion/data/raw/
+
+(3) Ubicación de los datos 3: One Drive de cuenta de alumno UNED: ruido-datasets-raw data.zip
+https://unedo365-my.sharepoint.com/:u:/g/personal/rabreu1_alumno_uned_es/IQAirwoYLJcwQKmNAjMo77CsAfkJTIvRg4qzi0r7jFsmHwM?e=xuU7De 
 
