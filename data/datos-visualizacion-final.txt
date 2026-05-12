@@ -1,0 +1,11 @@
+DATOS PROCESADOS - DATOS  DE LA ENTREGA FINAL
+
+Los datos procesados de se encuentran disponibles en 3 ubicaciones:
+
+(1) Ubicación de los datos 1: Los datos de la entrega intermedia están ubicados en el repositorio Kaggle. Versión 5 del dataset
+Ubicación de los datos procesados: https://www.kaggle.com/datasets/raquelahdo/ruido-datasets-procesados
+
+(2) Ubicación de los datos 2: Adicionalmente se encuentran disponibles en GitHub en /Ruido-Visualizacion/data/Processed/
+
+(3) Ubicación de los datos 3: One Drive de cuenta de alumno UNED: df_datos-procesados_v5.zip
+https://unedo365-my.sharepoint.com/:u:/g/personal/rabreu1_alumno_uned_es/IQD7mAiUWg3XQJxkdQkuY-tWAS2CPR-EF2XHgYhrV6_qzck?e=c6OJv2
