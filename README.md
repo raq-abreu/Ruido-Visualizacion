@@ -15,30 +15,30 @@ Descripción del objetivo global y los secundarios.
 
 ## Estructura del repositorio
 Ruido-Visualizacion/
-├─ data/
-│  ├─ raw/          # Datos originales. Adicionalmente los datos están alojados en Kaggle
-│  └─ processed/    # Datos procesados procesados. Adicionalmento los datos están alojados en Kaggle
-├─ notebooks/        # Jupyter notebooks - para limpieza y procesado de datos
-│  └─ Limpieza 01_Ruido_diario_acumulado.ipynb
-│  └─ Limpieza 02_Contaminacion_acustica.ipynb
-│  └─ Limpieza 03-Noise-limit.ipynb
-│  └─ Limpieza 05-estaciones-acusticas.ipynb
-│  └─ Limpieza 06-censo-locales.ipynb
-│  └─ Limpieza 07-calidad-vida.ipynb
-│  └─ Limpieza 08-salud-mental.ipynb
-│  └─ Limpieza 09-ADRH-distribucion renta.ipynb
-├─ notebooks entrega final/  # Ubicación de los jupyter notebooks de la visualización final
-│  └─ OG-Impacto ruido global.ipynb
-│  └─ OS01-exposicion_ruido.ipynb
-│  └─ OS02-ruido-salud-bienestar.ipynb
-│  └─ OS03_properidad_y_desarrollo.ipynb
-├─ docs/
-│  └─ 01-Entrega Inicial-Raquel Abreu - v3-modificado para entrega final.pdf       # Memoria de Entrega Inicial modificada para entrega intermedia
-│  └─ 02-Entrega Intermedia RaquelAbreu v3-modificaca para entrega final.pdf       #Memoria de Entrega Intermedia modificada para entrega final
-│  └─ 03-Memoria Entrega Final RaquelAbreu v1.pdf          #Memoria de la Entrega Final
-├─ requirements.txt
-├─ README.md
-└─ .gitignore          # (Vacío) Se incluirá cuando aplique
+- ├─ data/
+- │  ├─ raw/          # Datos originales. Adicionalmente los datos están alojados en Kaggle
+- │  └─ processed/    # Datos procesados procesados. Adicionalmento los datos están alojados en Kaggle
+- ├─ notebooks/        # Jupyter notebooks - para limpieza y procesado de datos
+- │  └─ Limpieza 01_Ruido_diario_acumulado.ipynb
+- │  └─ Limpieza 02_Contaminacion_acustica.ipynb
+- │  └─ Limpieza 03-Noise-limit.ipynb
+- │  └─ Limpieza 05-estaciones-acusticas.ipynb
+- │  └─ Limpieza 06-censo-locales.ipynb
+- │  └─ Limpieza 07-calidad-vida.ipynb
+- │  └─ Limpieza 08-salud-mental.ipynb
+- │  └─ Limpieza 09-ADRH-distribucion renta.ipynb
+- ├─ notebooks entrega final/  # Ubicación de los jupyter notebooks de la visualización final
+- │  └─ OG-Impacto ruido global.ipynb
+- │  └─ OS01-exposicion_ruido.ipynb
+- │  └─ OS02-ruido-salud-bienestar.ipynb
+- │  └─ OS03_properidad_y_desarrollo.ipynb
+- ├─ docs/
+- │  └─ 01-Entrega Inicial-Raquel Abreu - v3-modificado para entrega final.pdf       # Memoria de Entrega Inicial modificada para entrega intermedia
+- │  └─ 02-Entrega Intermedia RaquelAbreu v3-modificaca para entrega final.pdf       #Memoria de Entrega Intermedia modificada para entrega final
+- │  └─ 03-Memoria Entrega Final RaquelAbreu v1.pdf          #Memoria de la Entrega Final
+- ├─ requirements.txt
+- ├─ README.md
+- └─ .gitignore          # (Vacío) No aplica en el proyecto
 
 
 ## Datos Originales
