@@ -16,14 +16,26 @@ Descripción del objetivo global y los secundarios.
 ## Estructura del repositorio
 Ruido-Visualizacion/
 ├─ data/
-│  ├─ raw/          # (vacío en GitHub) Datos originales alojados en Kaggle
-│  └─ processed/    # (vacío en GitHub) Datos procesados alojados en Kaggle
-├─ notebooks/        # Jupyter notebooks - para limpieza y procesdado de datos
-├─ src/              # Ubicación de scripts (vacío)
-├─ visualizations/
-│  └─ resultado.html           # (Vacío) Export opcional para revisión rápida - Fase final del trabajo
+│  ├─ raw/          # Datos originales. Adicionalmente los datos están alojados en Kaggle
+│  └─ processed/    # Datos procesados procesados. Adicionalmento los datos están alojados en Kaggle
+├─ notebooks/        # Jupyter notebooks - para limpieza y procesado de datos
+│  └─ Limpieza 01_Ruido_diario_acumulado.ipynb
+│  └─ Limpieza 02_Contaminacion_acustica.ipynb
+│  └─ Limpieza 03-Noise-limit.ipynb
+│  └─ Limpieza 05-estaciones-acusticas.ipynb
+│  └─ Limpieza 06-censo-locales.ipynb
+│  └─ Limpieza 07-calidad-vida.ipynb
+│  └─ Limpieza 08-salud-mental.ipynb
+│  └─ Limpieza 09-ADRH-distribucion renta.ipynb
+├─ notebooks entrega final/  # Ubicación de los jupyter notebooks de la visualización final
+│  └─ OG-Impacto ruido global.ipynb
+│  └─ OS01-exposicion_ruido.ipynb
+│  └─ OS02-ruido-salud-bienestar.ipynb
+│  └─ OS03_properidad_y_desarrollo.ipynb
 ├─ docs/
-│  └─ memoria.pdf              # (Vacío) Entrega final (cuando aplique)
+│  └─ 01-Entrega Inicial-Raquel Abreu - v3-modificado para entrega final.pdf       # Memoria de Entrega Inicial modificada para entrega intermedia
+│  └─ 02-Entrega Intermedia RaquelAbreu v3-modificaca para entrega final.pdf       #Memoria de Entrega Intermedia modificada para entrega final
+│  └─ 03-Memoria Entrega Final RaquelAbreu v1.pdf          #Memoria de la Entrega Final
 ├─ requirements.txt
 ├─ README.md
 └─ .gitignore          # (Vacío) Se incluirá cuando aplique
@@ -71,20 +83,16 @@ Los datos procesados se alojan en Kaggle:
 - df_07_final-calidad-vida_processed.csv (17.08 kB) - 7 columnas
 - df_09_distribucion-renta_processed.csv (488.52 MB) - 10 columnas
 - df_09_reduced_distribucion-renta_processed.csv (186.82 kB) - 5 columnas
+- df_actividad_barrio.csv (4.83 kB) – 4 columnas
+- df_actividad_cp.csv (1.88 kB) – 4 columnas
 
 
 
 
-### Descarga local (opciones)
-- **Manual:** Descargar desde la URL de Kaggle y colocar los archivos en `data/raw/`.
-- **Automática:** (opcional) mediante `kaggle` CLI si está disponible en el entorno:
-  ```bash
-  kaggle datasets download -d USUARIO/NOMBRE-DEL-DATASET -p data/raw --unzip
-
-  
 ## Instrucciones para ejecutar
 1. Crear entorno instalando Anaconda
-3. Ejecutar notebooks
+2. Ejecutar notebooks
+
 
 ## Preparación de datos
 Abra y ejecute notebooks/
@@ -97,12 +105,16 @@ Abra y ejecute notebooks/
 - Limpieza 08-salud-mental.ipynb
 - Limpieza 09-ADRH-distribucion renta.ipynb
 
-## Visualización
-Fase de entrega final del proyecto
+## Visualización final
+Abrir y ejecutar los Jupytern notebooks ubicados en https://github.com/raq-abreu/Ruido-Visualizacion/tree/main/notebooks%20entrega%20final
+- Objetivo Global : OG-Impacto ruido global.ipynb
+- Objetivo Secundario 1 (OS01) : OS01-exposicion_ruido.ipynb
+- Objetivo Secundario 2 (OS02) : OS02-ruido-salud-bienestar.ipynb
+- Objetivo Secundario 3 (OS03) : OS03_prosperidad_y_desarrollo.ipynb
 
 ## Autoría
 Alumno: Raquel Abreu
 Programa: UNED – Visualización y Análisis de Datos
-
+Mayo 2026
 
 
