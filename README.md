@@ -17,7 +17,7 @@ Descripción del objetivo global y los secundarios.
 Ruido-Visualizacion/
 - ├─ data/
 - │  ├─ raw/          # Datos originales. Adicionalmente los datos están alojados en Kaggle
-- │  └─ processed/    # Datos procesados procesados. Adicionalmento los datos están alojados en Kaggle
+- │  └─ processed/    # Datos procesados procesados. Adicionalmente los datos están alojados en Kaggle
 - ├─ notebooks/        # Jupyter notebooks - para limpieza y procesado de datos
 - │  └─ Limpieza 01_Ruido_diario_acumulado.ipynb
 - │  └─ Limpieza 02_Contaminacion_acustica.ipynb
